@@ -6,7 +6,7 @@ This document is made for a ScriptHub im making so feel free to use it
 ## creating the Library
 ```lua
 local Library = loadstring(game:HttpGet('https://raw.githubusercontent.com/Duhscriptposter/visual/main/Source1.lua', true))()
-``
+```
 
 ## Creating a Command Bar
 ```lua
