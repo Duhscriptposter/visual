@@ -32,7 +32,7 @@ end)
 
 ## Creating a Argument Command
 ```lua
-indow:AddCommand('Name', {'Argument'}, 'Description', function(Arguments, Speaker)
+Window:AddCommand('Name', {'Argument'}, 'Description', function(Arguments, Speaker)
     print(Arguments[1])
 end)
 ```
