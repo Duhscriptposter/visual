@@ -25,7 +25,7 @@ local Window = Library:CreateWindow({
 
 ## Creating a Command
 ```lua
-Window:AddCommand('Name', {}, 'Description'.', function(Arguments, Speaker)
+Window:AddCommand('Name', {}, 'Description', function(Arguments, Speaker)
     print('Hello World')
 end)
 ```
